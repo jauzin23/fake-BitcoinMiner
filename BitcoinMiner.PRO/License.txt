@@ -1,0 +1,30 @@
+	SOFTWARE LICENSE AGREEMENT
+
+IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING THE SOFTWARE.
+
+1. GRANT OF LICENSE:
+   This License Agreement ("Agreement") grants you a limited, non-exclusive, non-transferable license to use the jauzin23's BitcoinMiner software, including any associated documentation (collectively referred to as the "Software"), in accordance with the terms and conditions of this Agreement.
+
+2. DEMO VERSION:
+   The Software provided to you may be a demo version with limited features. The use of the demo version is subject to the restrictions outlined in Section 3 below.
+
+3. DEMO VERSION RESTRICTIONS:
+   a. **Usage Limitation:** The demo version is provided for evaluation purposes only and may be used for a limited time or with restricted functionality.
+
+   b. **Feature Limitations:** Certain features of the Software may be restricted in the demo version. To access the full range of features, you must purchase a valid license.
+
+4. PAYMENT AND UPGRADE:
+   a. **Payment:** To use the full version of the Software, you must purchase a valid license from jauzin23. Payment details and pricing can be found on our official website.
+
+   b. **Upgrade:** Upon purchasing a license, you will receive a unique license key that unlocks the full version of the Software, removing any limitations present in the demo version.
+
+5. INTELLECTUAL PROPERTY:
+   a. **Ownership:** jauzin23 retains all rights, title, and interest in and to the Software, including all intellectual property rights.
+
+   b. **Restrictions:** You may not copy, modify, distribute, reverse engineer, or attempt to discover any source code or algorithms of the Software.
+
+6. DISCLAIMER OF WARRANTY:
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK ARISING OUT OF THE USE OR PERFORMANCE OF THE SOFTWARE REMAINS WITH YOU.
+
+9. ACCEPTANCE OF TERMS:
+   By using the Software, you acknowledge that you have read, understood, and agree to be bound by the terms and conditions of this Agreement.
