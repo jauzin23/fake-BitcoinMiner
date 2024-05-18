@@ -1,4 +1,4 @@
-##Fake-BitcoinMiner
+###Fake-BitcoinMiner
 
 ### Features
 
