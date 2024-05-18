@@ -4,6 +4,6 @@
 
 - A Full version and a fake demo version.
 - Working misleading colors and random numbers.
-- Wunctional login system using pre generated serial numbers.
+- Functional login system using pre-generated serial numbers (check the serial numbers on the releases tab).
 - A fake Wallet Checker.
 - A plausible ui and working executable.
